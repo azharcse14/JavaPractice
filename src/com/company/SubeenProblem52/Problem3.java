@@ -1,4 +1,4 @@
-package com.company;
+package com.company.SubeenProblem52;
 
 public class Problem3 {
     public static void main(String[] args) {
