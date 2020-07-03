@@ -1,4 +1,4 @@
-package com.company;
+package com.company.SubeenProblem52;
 
 import java.util.Scanner;
 
